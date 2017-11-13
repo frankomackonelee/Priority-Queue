@@ -1,0 +1,6 @@
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\fmalo\source\repos\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache

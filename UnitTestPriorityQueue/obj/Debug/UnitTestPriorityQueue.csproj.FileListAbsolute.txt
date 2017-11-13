@@ -1,0 +1,15 @@
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\UnitTestPriorityQueue.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\UnitTestPriorityQueue.pdb
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\obj\Debug\UnitTestPriorityQueue.csprojResolveAssemblyReference.cache
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\obj\Debug\UnitTestPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\obj\Debug\UnitTestPriorityQueue.dll
+C:\Users\fmalo\source\repos\PriorityQueue\UnitTestPriorityQueue\obj\Debug\UnitTestPriorityQueue.pdb
